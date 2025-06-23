@@ -1,0 +1,42 @@
+.addbook-container {
+  padding: 2em;
+  background-color: #f0f4c3;
+  text-align: center;
+}
+
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 1.5em;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input {
+  display: block;
+  width: 100%;
+  margin: 0.5em 0;
+  padding: 0.6em;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  background-color: #ffeb3b;
+  padding: 0.6em 1.2em;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+button:hover {
+  background-color: #fdd835;
+}
+
+.error {
+  color: red;
+  font-size: 0.85em;
+  margin-top: -0.5em;
+}

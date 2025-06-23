@@ -1,0 +1,35 @@
+.details-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  padding: 2em;
+  justify-content: center;
+  background-color: #fff9c4;
+}
+
+.details-img {
+  max-width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+.details-text {
+  max-width: 500px;
+}
+
+.details-text h2 {
+  margin-bottom: 0.5em;
+}
+
+.details-text p {
+  margin: 0.5em 0;
+  line-height: 1.6;
+}
+
+.back-link {
+  display: inline-block;
+  margin-top: 1em;
+  color: #1976d2;
+  text-decoration: none;
+  font-weight: bold;
+}
