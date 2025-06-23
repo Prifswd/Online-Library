@@ -40,11 +40,16 @@ A simple online library system built using React, Redux, and React Router. Users
 <!-- ################################################################################## -->
 
 
-## Installation
+## How to Run
 
-git clone https://github.com/yourusername/online-library.git
+1. Clone the repo :
+git clone https://github.com/Prifswd/Online-Library
+
+2. Install dependencies :
 cd onlineLibrary
 npm install
+
+3. Run the project :
 npm run dev
 
 
